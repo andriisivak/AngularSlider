@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(black, #314b75, black);
+}
+
+#page {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#mycontainer {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+    /*border: 1px solid white;*/
+}
+
+#content {
+    overflow: hidden;
+}
+
+.inline {
+    display: inline-block;
+}
+
+button {
+    display: block;
+    margin: 130px 0 0 0;
+}
+
+.col-md-10 {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    text-align: center;
+    color: #867DB6;
+    margin-bottom: 25px;
+}
+

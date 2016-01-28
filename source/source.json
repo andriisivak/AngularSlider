@@ -1,0 +1,36 @@
+{
+    "images": {
+        "photo01": {
+            "name": "dio01",
+            "img_url": "source/img/dio01.jpg"
+        },
+        "photo02": {
+            "name": "dio02",
+            "img_url": "source/img/dio02.jpg"
+        },
+        "photo03": {
+            "name": "dt01",
+            "img_url": "source/img/dt01.jpg"
+        },
+        "photo04": {
+            "name": "dt02",
+            "img_url": "source/img/dt02.jpg"
+        },
+        "photo05": {
+            "name": "dt02",
+            "img_url": "source/img/jt01.jpg"
+        },
+        "photo06": {
+            "name": "dt02",
+            "img_url": "source/img/jt02.jpg"
+        },
+        "photo07": {
+            "name": "dt02",
+            "img_url": "source/img/jt03.jpg"
+        },
+        "photo08": {
+            "name": "dt02",
+            "img_url": "source/img/jt04.jpg"
+        }
+    }
+}
